@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "SpringBasic",
+    "packageName": "com.spring_basic",
+    "packageFolder": "com/spring_basic",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "MzE1YmU0YmZiNzFmZDQwYzA5ZjZjYzg0YmZlY2NlMTllNWQ0NjUzYTgwN2Y4OWMxMjQxY2U4N2U5MWRmNjUyMGRhYmE5YzlhY2E1ZjNlNWIzMzhiNGI1NjdiMDM5OGJhYjEwMjQ2YThiMGNjMmFhYzRjZTRiYWMwMGYxOGIwYjI=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "aseduma",
+  "repository-name": "SpringBasic"
+}
